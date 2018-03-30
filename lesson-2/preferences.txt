@@ -1,0 +1,34 @@
+SETTINGS LIST
+--------------
+
+"margin": 2,
+"tab_size" : 2,
+"font_size": 13.0,
+"word_wrap": "true",
+"font_face": "Monaco",
+"line_padding_top": 2,
+"auto_complete": false,
+"line_padding_bottom": 2,
+"highlight_line": false,
+"show_definitions": false,
+"save_on_focus_lost": true,
+"trim_automatic_white_space": false,
+"indent_guide_options": ["draw_normal", "draw_active" ],
+"ignored_packages":	["Vintage"],
+"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+
+
+
+PACKAGES LIST:
+--------------
+
+AdvancedNewFile,
+AutoFileName,
+BracketHighilghter,
+COlorHighlighter,
+Emmet,
+JsFormat,
+SideBarEnhancements,
+SuperCalculator,
+Autoprefixer,
+SublimeCodeIntel
